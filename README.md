@@ -1,4 +1,4 @@
-# Animated GIF Assignment
+# Digital Video Exercise
 
 Welcome! In this workshop, students will team up to create a video documentary using iMovie on iPhone or Mac, the equivalent on Windows, or any free video editing software of your choice, and publish it on your web pages. Your video will include a voiceover track and soundtrack produced in Audacity.
 
